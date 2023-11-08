@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataExporter", "GameDataExporter\GameDataExporter.csproj", "{674CC666-1619-47D2-AB12-BCC8E26BBF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674CC666-1619-47D2-AB12-BCC8E26BBF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674CC666-1619-47D2-AB12-BCC8E26BBF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674CC666-1619-47D2-AB12-BCC8E26BBF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674CC666-1619-47D2-AB12-BCC8E26BBF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0844136-3605-4033-AE8D-4D104D50BE6F}
+	EndGlobalSection
+EndGlobal

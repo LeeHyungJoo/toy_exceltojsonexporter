@@ -1,0 +1,22 @@
+{
+  "100": {
+    "Id": 100,
+    "Name": "NomalGingerBrave",
+    "DefaultStatsArrayIndex": [
+      0
+    ],
+    "DefaultEquipSkillArrayIndex": [
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        3
+      ]
+    ]
+  }
+}

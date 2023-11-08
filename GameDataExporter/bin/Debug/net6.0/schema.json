@@ -1,0 +1,21 @@
+{
+    "tables": [
+        {
+            "name": "CookieInfo",
+            "columns": [
+                "Id",
+                "Name",
+                "DefaultStatsArrayIndex",
+                "DefaultEquipSkillArrayIndex"
+            ]
+        },
+		{
+            "name": "GameConfig",
+            "columns": [
+                "Id",
+                "NickNameValueMin",
+                "NickNameValueMax"
+            ]
+        }
+	]
+}
